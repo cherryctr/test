@@ -1,0 +1,19 @@
+.gambar-slider {
+    width: 100%;
+    height: 700px;
+}
+
+.parent {
+    background-color: black;
+    width: 100%;
+    height: 700px;
+}
+
+.album {
+
+    background-color: #563d7c;
+}
+
+.homenav {
+    background-color: #563d7c;
+}
